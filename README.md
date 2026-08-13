@@ -26,7 +26,7 @@ I believe security education works best when it is grounded in scenarios student
 | Days 21–25 | New labs and extended projects |
 | Days 26–30 | Portfolio consolidation |
 
-Follow along on [LinkedIn](#) · [Blog](#) · [Twitter/X](#)
+Follow along on [LinkedIn](www.linkedin.com/in/akorita-nehemiah-21aab8223) · [Blog](https://www.blogger.com/blog/posts/3275027532616772935) · [Twitter/X](https://x.com/Nehemia17303777)
 
 ---
 
