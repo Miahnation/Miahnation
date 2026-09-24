@@ -7,15 +7,15 @@
 ## What I Do
 
 I design and deliver practical cybersecurity programmes in Nigeria.  
-I recently co-facilitated **TechRise 3.0** — a 12-week intensive Cybersecurity & DevSecOps programme for Abia Cohort 3.0 — covering everything from penetration testing and SIEM engineering to digital forensics and DevSecOps pipelines.
+I recently co-facilitated **TechRise 3.0**  a 12-week intensive Cybersecurity & DevSecOps programme for Abia Cohort 3.0 — covering everything from penetration testing and SIEM engineering to digital forensics and DevSecOps pipelines.
 
-I believe security education works best when it is grounded in scenarios students actually recognise — which is why every lab and assignment I build is set in a Nigerian context.
+I believe security education works best when it is grounded in scenarios students actually recognise which is why every lab and assignment I build is set in a Nigerian context.
 
 ---
 
 ## Currently Building 🚀
 
-**30-Day Post-Cohort Challenge** — turning 12 weeks of cybersecurity delivery into a public portfolio.
+**30-Day Post-Cohort Challenge** turning 12 weeks of cybersecurity delivery into a public portfolio.
 
 | Day | Focus |
 |-----|-------|
